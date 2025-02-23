@@ -1,6 +1,6 @@
 # Sea Dragon Slug
 
-A Glaucus atlanticus or Sea Dragon Slug inspired Animation 
+A Glaucus Atlanticus or Sea Dragon Slug inspired Animation 
 using only HTML , CSS , JavaScript 
 
 It uses Mouse Listerner to follow the mouse when present inside the DOM
